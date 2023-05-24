@@ -12,7 +12,7 @@ namespace RegexProgram
             Regex re = new Regex(email);
             string phone = @"\d{2}\s\d{10}$";
             Regex rp = new Regex(phone);
-            String pass = @"^.{0,7}|[^A-Z]*|[^0-9]*|[^.]*\W{2,}[^.]*|[^\W]$";
+            string pass = @"^.{0,7}|[^A-Z]*|[^0-9]*|[^.]*\W{2,}[^.]*|[^\W]$";
             //@"^(?=.[A-Z])(?=.[0-9])(?=.\W).{8,}$";
             Regex rpass = new Regex(pass);
 

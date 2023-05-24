@@ -1,0 +1,15 @@
+C:\Users\sarve\source\repos\Regex\Regex-in-C-sharp\bin\Debug\net6.0\Regex.exe
+C:\Users\sarve\source\repos\Regex\Regex-in-C-sharp\bin\Debug\net6.0\Regex.deps.json
+C:\Users\sarve\source\repos\Regex\Regex-in-C-sharp\bin\Debug\net6.0\Regex.runtimeconfig.json
+C:\Users\sarve\source\repos\Regex\Regex-in-C-sharp\bin\Debug\net6.0\Regex.dll
+C:\Users\sarve\source\repos\Regex\Regex-in-C-sharp\bin\Debug\net6.0\Regex.pdb
+C:\Users\sarve\source\repos\Regex\Regex-in-C-sharp\obj\Debug\net6.0\Regex.csproj.AssemblyReference.cache
+C:\Users\sarve\source\repos\Regex\Regex-in-C-sharp\obj\Debug\net6.0\Regex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarve\source\repos\Regex\Regex-in-C-sharp\obj\Debug\net6.0\Regex.AssemblyInfoInputs.cache
+C:\Users\sarve\source\repos\Regex\Regex-in-C-sharp\obj\Debug\net6.0\Regex.AssemblyInfo.cs
+C:\Users\sarve\source\repos\Regex\Regex-in-C-sharp\obj\Debug\net6.0\Regex.csproj.CoreCompileInputs.cache
+C:\Users\sarve\source\repos\Regex\Regex-in-C-sharp\obj\Debug\net6.0\Regex.dll
+C:\Users\sarve\source\repos\Regex\Regex-in-C-sharp\obj\Debug\net6.0\refint\Regex.dll
+C:\Users\sarve\source\repos\Regex\Regex-in-C-sharp\obj\Debug\net6.0\Regex.pdb
+C:\Users\sarve\source\repos\Regex\Regex-in-C-sharp\obj\Debug\net6.0\Regex.genruntimeconfig.cache
+C:\Users\sarve\source\repos\Regex\Regex-in-C-sharp\obj\Debug\net6.0\ref\Regex.dll

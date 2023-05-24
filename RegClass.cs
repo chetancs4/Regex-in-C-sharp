@@ -15,15 +15,21 @@ namespace RegexProgram
             Regex rg = new Regex(name);
 
             Console.WriteLine("Enter First Name: ");
-            string FirstName = Console.ReadLine();
-            if (rg.IsMatch(FirstName))
+            string firstName = Console.ReadLine();
+            Console.WriteLine("Enter Last Name: ");
+            string lastName = Console.ReadLine();
+
+            if (rg.IsMatch(firstName) && rg.IsMatch(lastName))
             {
-                Console.WriteLine("First Name: " + FirstName);
+                Console.WriteLine("First Name: " + firstName);
+                Console.WriteLine("Last Name: " + lastName);
             }
             else
             {
-                Console.WriteLine("invalid First Name");
+                Console.WriteLine("invalid Name");
             }
+
+             
         }
     }
 }
